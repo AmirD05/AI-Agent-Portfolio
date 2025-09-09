@@ -1,175 +1,122 @@
-# AI-Agent-Portfolio
-AI Portfolio for Amir Din
-
 # 🧠 AI Agent Portfolio
 
-Welcome to my collection of AI-powered solutions designed to streamline workflows and boost productivity. As a cybersecurity professional with a passion for automation, I've developed these agents to solve real-world challenges across content creation, business operations, and personal productivity.
+Welcome to my collection of AI-powered tools designed to streamline workflows and enhance productivity. As a cybersecurity professional with a passion for automation, I've developed these agents to solve real-world business challenges through intelligent automation.
 
 ---
 
 ## 🚀 Featured AI Agents
 
 ### Social Media Post Generator  
-**Description**: An intelligent agent that transforms a single topic into three engaging social media post ideas, perfect for maintaining consistent online presence.
+**Description**: An AI agent that transforms a single topic input into three creative and engaging social media post ideas, perfect for content creators and marketing professionals.
 
-**Use Case**: Marketing teams can input "cybersecurity awareness" and receive three different post concepts tailored for LinkedIn, Twitter, or Instagram engagement.
+**Use Case**: A marketing manager needs fresh content ideas for their company's LinkedIn page about "cloud security trends" - this agent instantly generates three unique post concepts with different angles and approaches.
 
 **Key Features:**
 - Single input generates multiple creative variations
-- Topic-focused content creation
-- Time-saving automation for social media managers
+- Tailored for social media engagement
+- Quick ideation for content planning
+- Saves time on brainstorming sessions
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/social-media-post-idea-generator/run)
-
----
-
-### Blog Post Generator  
-**Description**: A comprehensive content creation tool that helps writers and marketers develop structured, engaging blog posts from initial concepts.
-
-**Use Case**: Content creators can input a topic like "remote work security" and receive a well-structured blog post outline with key points and sections.
-
-**Key Features:**
-- Automated content structure generation
-- SEO-friendly formatting
-- Scalable content production
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/social-media-post-idea-generator-bde43608/run/)
+[🔗 Try it out](https://app.mindstudio.ai/agents/social-media-post-idea-generator-bde43608/remix)
 
 ---
 
 ### Email Tone Analyzer  
-**Description**: An advanced communication tool that analyzes and optimizes email tone to ensure professional and effective messaging.
+**Description**: A sophisticated AI tool that analyzes the tone and sentiment of emails, helping professionals understand the emotional context of their communications.
 
-**Use Case**: Before sending important client communications, professionals can analyze their email tone to ensure it conveys the right message and maintains relationships.
+**Use Case**: Before responding to a potentially sensitive client email, use this agent to analyze whether the tone is frustrated, neutral, or positive, allowing you to craft an appropriately measured response.
 
 **Key Features:**
-- Real-time tone assessment
-- Professional communication optimization
-- Relationship management support
+- Real-time tone detection
+- Sentiment analysis capabilities
+- Professional communication insights
+- Helps prevent miscommunication
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/email-tone-analyzer-863388d8/run)
 
 ---
 
 ### Jargon Buster  
-**Description**: An accessibility-focused agent that reads complex technical documents and translates industry jargon into beginner-friendly language.
+**Description**: An intelligent document simplifier that takes complex technical documents and translates industry jargon into clear, beginner-friendly language.
 
-**Use Case**: IT teams can use this to convert technical security policies into understandable guidelines for non-technical staff members.
+**Use Case**: A cybersecurity team needs to explain a technical security policy to non-technical stakeholders - this agent transforms dense technical documentation into accessible language everyone can understand.
 
 **Key Features:**
-- Complex document simplification
-- Technical-to-plain language translation
-- Improved organizational communication
+- Complex document processing
+- Technical jargon translation
+- Beginner-friendly explanations
+- Maintains original meaning while improving clarity
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/jargon-buster-d0247e68/run)
 
 ---
 
-### Job Spec Generator  
-**Description**: A recruitment automation tool that creates complete, well-structured job descriptions from basic job titles and key requirements.
+### Personalized Cold Outreach Email Generator  
+**Description**: A professional email drafting tool that creates polished, personalized business emails with precise language and appropriate tone for cold outreach campaigns.
 
-**Use Case**: HR managers can input "SOC Analyst" with a few key skills and receive a comprehensive job posting ready for publication.
+**Use Case**: A sales professional needs to reach out to 50 potential clients with personalized messages - this agent crafts professional, engaging emails that feel personal rather than generic.
 
 **Key Features:**
-- Rapid job description creation
-- Professional formatting and structure
-- Comprehensive requirement mapping
+- Professional email composition
+- Personalization capabilities
+- Appropriate tone matching
+- Business-ready language and structure
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/job-spec-generator/run)
+[🔗 Try it out](https://app.mindstudio.ai/agents/personalized-cold-outreach-email-generator-43ec0add/remix)
 
 ---
 
 ### Key Point Extractor  
-**Description**: A browser extension-powered agent designed to extract and summarize key information from web pages for efficient research and analysis.
+**Description**: A browser extension-powered AI agent that efficiently extracts and summarizes key information from web pages, perfect for research and information gathering.
 
-**Use Case**: Security analysts can quickly extract key findings from threat intelligence reports without reading entire documents.
+**Use Case**: A security analyst researching the latest threat intelligence reports can quickly extract the most important findings from multiple lengthy articles without reading every word.
 
 **Key Features:**
-- Web page content analysis
 - Browser extension integration
+- Web page content analysis
+- Key information extraction
 - Research efficiency optimization
 
 [🔗 Try it out](https://app.mindstudio.ai/agents/key-point-extractor-5a34b672/run)
 
 ---
 
-### Recipe Generator  
-**Description**: A culinary creativity tool that generates personalized recipes based on available ingredients, reducing food waste and inspiring home cooking.
+### NIST Compliance Assistant  
+**Description**: A specialized AI agent designed to help organizations understand and implement NIST framework requirements for compliance accreditation and security standards.
 
-**Use Case**: Home cooks can input leftover ingredients like "chicken, rice, vegetables" and receive a complete recipe with cooking instructions.
+**Use Case**: An IT manager preparing for a security audit needs to understand specific NIST controls and their implementation requirements - this agent provides clear guidance and compliance insights.
 
 **Key Features:**
-- Ingredient-based recipe creation
-- Food waste reduction
-- Personalized meal planning
+- NIST framework expertise
+- Compliance guidance
+- Security standards interpretation
+- Audit preparation support
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/my-recipe-bot-bb3ee779/run/)
+[🔗 Try it out](https://app.mindstudio.ai/agents/nist-compliance--64bbf094/remix)
 
 ---
 
-### Product Description Generator  
-**Description**: An e-commerce optimization tool that gathers multiple product details through a single form to create compelling, conversion-focused product descriptions.
+## 👨‍💻 About Me
 
-**Use Case**: Online retailers can input product specifications and features to generate professional descriptions that drive sales and improve SEO.
+I'm Amir, a SOC Analyst and cybersecurity professional with Google Cloud Security and (ISC)² CC certifications. With experience triaging 300+ security incidents and leading 40+ security assessments, I understand the importance of efficient, automated solutions in high-pressure environments.
 
-**Key Features:**
-- Multi-input form processing
-- Sales-optimized copywriting
-- E-commerce integration ready
+My background spans incident response, cloud security, and compliance frameworks, combined with strong communication skills developed through international teaching experience. This unique blend allows me to create AI tools that not only solve technical challenges but are also accessible to diverse audiences.
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/product-description-generator-0cfa8e4d/run/)
-
----
-
-### Professional Email Assistant  
-**Description**: A business communication tool that crafts professional, well-structured emails for various business scenarios and stakeholder interactions.
-
-**Use Case**: Professionals can specify the email purpose and recipient type to receive a polished, professional email ready for sending.
-
-**Key Features:**
-- Professional tone optimization
-- Business communication templates
-- Stakeholder-appropriate messaging
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/professional-email-assistant-d560572e/run/)
+**My Expertise:**
+- **Security Operations & Incident Response**
+- **Cloud Security & Compliance (ISO 27001, NIST)**
+- **Process Automation & Optimization**
+- **Technical Communication & Documentation**
 
 ---
 
-### Sales Agent Assistant  
-**Description**: A sales enablement tool that helps teams create personalized, effective cold outreach emails to improve response rates and conversion.
+### 🤝 Let's Connect
 
-**Use Case**: Sales teams can input prospect information and receive customized outreach emails that resonate with specific client needs and pain points.
+Ready to streamline your workflows with intelligent automation? I specialize in creating custom AI solutions for:
 
-**Key Features:**
-- Personalized outreach creation
-- Cold email optimization
-- Sales conversion enhancement
+- **Security operations automation**
+- **Business process optimization** 
+- **Technical documentation and communication tools**
+- **Compliance and risk management solutions**
 
-[🔗 Try it out](https://app.mindstudio.ai/agents/sales-agent-181fbc9b/run/)
-
----
-
-### Workout Plan Planner  
-**Description**: A personal fitness productivity agent that creates customized weekly workout plans based on individual goals, available time, and fitness preferences.
-
-**Use Case**: Busy professionals can input their fitness goals and time constraints to receive a realistic, personalized weekly workout schedule.
-
-**Key Features:**
-- Goal-based workout customization
-- Time-constraint optimization
-- Personal fitness planning
-
-[🔗 Try it out](https://app.mindstudio.ai/agents/workout-plan-0054f749/run/)
-
----
-
-## 📬 Contact Me
-
-Ready to streamline your workflows with custom AI solutions? I specialize in creating intelligent agents that solve real business challenges while maintaining security best practices.
-
-**Available for:**
-- **Custom AI agent development**
-- **Workflow automation consulting**
-- **Security-focused AI implementations**
-
-[📧 Email me](mailto:contact@example.com) or [💼 Connect on LinkedIn](https://www.linkedin.com/in/amirdin)
+[📬 Contact me](mailto:contact@amirdin.com) or [Connect on LinkedIn](https://www.linkedin.com/in/amirdin)
